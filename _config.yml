@@ -1,0 +1,28 @@
+name: BusineWealthJS1
+favicon: null
+layout_spectrum: 0.23951572412624955
+typography_spectrum: 0.3779259920120239
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8630383210256696
+  lightness: 0.6630403930321336
+  saturation: 0.8515455713495612
+  rhythmicContrast: 0.3040507168043405
+purpose: []
